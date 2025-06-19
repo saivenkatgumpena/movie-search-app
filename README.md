@@ -2,6 +2,9 @@
 
 A simple and responsive web application that allows users to search for movies by title and view details like poster, release year, genre, plot, ratings, and more — using the OMDb API.
 
+#Link
+https://saivenkatgumpena.github.io/movie-search-app/
+
 ## 📌 Features
 - Search any movie or TV show by name
 - Display movie poster, title, year, genre, and plot
